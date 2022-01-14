@@ -2,7 +2,7 @@
 
 Este projeto tem o objetvo de demonstrar um pouco sobre meus conhecimentos em React Native.
 
-![](https://github.com/rodrigomatosc/Weather/weather.gif)
+![](https://raw.githubusercontent.com/rodrigomatosc/Weather/master/weather.gif)
 
 ## Features
 
