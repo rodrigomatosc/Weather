@@ -64,7 +64,7 @@ Após a localização, percebi que a aplicação necessitaria de somente uma pag
 | Home.container | [src/pages/Home/Home.container.tsx][plgh] | Cuida de todo tipo de dado que vai ser passado para a view, aqui são feitas desde requestes como uma filtragem dos dados                                                      |
 | Home.screen    | [src/pages/Home/Home.screen.tsx][plgd]    | Cuida da navegação desta page, neste projeto não foi preciso, mas se no caso na Home tivesse algum tipo de chamada para outra página, é nesta camada que aconteceria a mágica |
 
-Dentro de cada pasta que representa uma page há também os styles e índex
+Dentro de cada pasta que representa uma page há também os styles e índex. Com essa estrutura os testes de interface e integracao ficam bem mais separados. 
 
 ### Observações
 
