@@ -1,7 +1,5 @@
 # BuilderWeather
 
-## _The Last Markdown Editor, Ever_
-
 Este projeto tem o objetvo de demonstrar um pouco sobre meus conhecimentos em React Native.
 
 ## Features
