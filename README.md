@@ -4,6 +4,16 @@ Este projeto tem o objetvo de demonstrar um pouco sobre meus conhecimentos em Re
 
 ![](https://raw.githubusercontent.com/rodrigomatosc/Weather/master/weather.gif)
 
+### Inspiration
+
+Vou dar os créditos para alguns projetos que serviram como inspiração
+
+- [Bruna Atanes - Behance](https://www.behance.net/gallery/120299981/Weather-App-UI-Project/modules/684648357) - inspiração para o layout
+- [Amy Yangtze- Figma](https://www.figma.com/community/file/884628404763738829) - Ícones 
+
+(https://www.behance.net/gallery/120299981/Weather-App-UI-Project/modules/684648357) - Foi usada para a recuperação dos dados de localização do telemóvel
+
+
 ## Features
 
 - Recuperaçaão dos dados de localização do usuário
