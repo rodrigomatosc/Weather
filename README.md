@@ -17,6 +17,8 @@ Vou dar os créditos para alguns projetos que serviram como inspiração
 - Recuperaçaão dos dados de localização do usuário
 - Verificação se os dados de localização estão disponíveis
 - Recuperação de dados através de uma API que recebe a localização e retorna dados Climáticos
+- Os Ícones mudam de acordo com o tempo - Baseei-me nesta documentação: [openweathermap](https://openweathermap.org/weather-conditions)
+
 
 ## Tech
 
