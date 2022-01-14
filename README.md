@@ -2,6 +2,8 @@
 
 Este projeto tem o objetvo de demonstrar um pouco sobre meus conhecimentos em React Native.
 
+![](https://github.com/rodrigomatosc/Weather/weather.gif)
+
 ## Features
 
 - Recuperaçaão dos dados de localização do usuário
