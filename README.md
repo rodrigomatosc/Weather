@@ -68,6 +68,6 @@ Dentro de cada pasta que representa uma page há também os styles e índex
 
 ### Observações
 
-- Utilizei o redux somente para guardar os dados se a aplicação estava buscando os dados ou não
+- Utilizei o redux somente para guardar os dados de loading, Pra esse projeto achava que não era necessário, mas para nível de demostração conhecimento achei válido.
 - Algumas chaves como api-key nao deveriam estar no código como ai estão, como fiz o projeto muito rápido não achei que seria relevante agora
 - Deveriam ser feitos testes, mas como foquei mais no layout, acabei gastando um tempinho a mais com isso
